@@ -3,3 +3,9 @@
 print("我随便修改了一下 ")
 
 print("Joy work hard")
+
+print("""
+          *
+         ***
+        ***** 
+""")
